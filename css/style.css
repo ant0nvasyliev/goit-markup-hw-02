@@ -130,6 +130,7 @@ color: var(--secondary-text-color);
 }
 
 .filter-button {
+font-family: 'Roboto', sans-serif;
 cursor: pointer;
 font-weight: 500;
 line-height: 1.5;
